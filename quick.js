@@ -1,7 +1,7 @@
 /*
  * @Author: ibegyourpardon
  * @Date: 2021-10-27 18:31:48
- * @LastEditTime: 2021-10-27 18:48:18
+ * @LastEditTime: 2021-10-27 18:48:55
  * @LastEditors: Please set LastEditors
  * @Description: some javascript snippets
  * @FilePath: \undefinedd:\ibegyourpardon\jsquick\quick.js
@@ -251,3 +251,5 @@ const Quick = class {
 
 
 }
+
+export { Quick };
